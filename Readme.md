@@ -1,8 +1,8 @@
 **Instructions to run the calculator microservice**
 
-1. run command -> yarn install (or npm install)
+1. run command -> docker-compose build
 
-2. run command -> yarn start
+2. run command -> docker-compose up
 
    - The application should start on the port 8080.
 
